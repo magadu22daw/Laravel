@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/manel/Documents/DAW/M07/Laravel/vagrant/codi","disabled":false,"__vagrantfile":true},"/home/vagrant/vagrant":{"guestpath":"/home/vagrant/vagrant","hostpath":"C:/Users/manel/Documents/DAW/M07/Laravel/vagrant/vagrant","disabled":false,"__vagrantfile":true}}}
